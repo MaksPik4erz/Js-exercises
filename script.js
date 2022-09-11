@@ -19,4 +19,4 @@ function calculateWordsInText(str) {
     console.log(arr);
     console.log(arr.length);
 }
-console.log(calculateWordsInText('Ось шо називається токо проснувся'));
+console.log(calculateWordsInText('I got enough sleep today because I went to bed early'));
